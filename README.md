@@ -1,0 +1,7 @@
+# Python
+
+ |                                                          Challenge                                                       |                                                                                          Solution                                                                                         |
+|:--------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| [np-min-and-max]( https://www.hackerrank.com/challenges/np-min-and-max/problem)                                      | [Solution.py](https://github.com/ranjanikrishnan/Hackerank-Challenges/blob/master/python/min_max.py)
+| [symmetric-difference](https://www.hackerrank.com/challenges/symmetric-difference/problem) | [Solution.py](https://github.com/ranjanikrishnan/Hackerank-Challenges/blob/master/python/symmetric_diff.py)
+| [py-collections-namedtuple](https://www.hackerrank.com/challenges/py-collections-namedtuple/problem) | [Solution.py](https://github.com/ranjanikrishnan/Hackerank-Challenges/blob/master/python/named_tuple.py)
