@@ -1,6 +1,3 @@
-# https://www.hackerrank.com/challenges/symmetric-difference/problem
-
-
 def find_symmetric_diff(list_m, list_n):
     set_m = set(list_m)
     set_n = set(list_n)

@@ -1,5 +1,3 @@
-# https://www.hackerrank.com/challenges/py-collections-namedtuple/problem
-
 import collections
 
 
