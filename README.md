@@ -10,4 +10,4 @@
 | [odd_occurences_in_array](https://app.codility.com/programmers/lessons/2-arrays/odd_occurrences_in_array/) | [solution.py](https://github.com/ranjanikrishnan/Coding-Challenges/blob/master/python/odd_occurences_in_array/solution.py)
 | [two_sum](https://leetcode.com/problems/two-sum/) | [solution.py](https://github.com/ranjanikrishnan/Coding-Challenges/blob/master/python/two_sum/solution.py)
 | [buy_and_sell_stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [solution.py](https://github.com/ranjanikrishnan/Coding-Challenges/blob/master/python/buy_and_sell_stock/solution.py)
-
+| [contains_duplicate](https://leetcode.com/problems/contains-duplicate/) | [solution.py](https://github.com/ranjanikrishnan/Coding-Challenges/blob/master/python/contains_duplicate/solution.py)
