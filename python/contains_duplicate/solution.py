@@ -7,9 +7,4 @@ def contains_duplicate(nums):
                 return True
         return False
     except IndexError as e:
-        print(e)    
-
-
-if __name__ == '__main__':
-    has_duplicate = contains_duplicate([0])
-    print(has_duplicate)
+        print(e)
