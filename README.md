@@ -12,3 +12,11 @@
 | [buy_and_sell_stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [solution.py](https://github.com/ranjanikrishnan/Coding-Challenges/blob/master/python/buy_and_sell_stock/solution.py)
 | [contains_duplicate](https://leetcode.com/problems/contains-duplicate/) | [solution.py](https://github.com/ranjanikrishnan/Coding-Challenges/blob/master/python/contains_duplicate/solution.py)
 | [product_of_array_except_self](https://leetcode.com/problems/product-of-array-except-self/) | [solution.py](https://github.com/ranjanikrishnan/Coding-Challenges/blob/master/python/product_of_array_except_self/solution.py)
+
+
+
+# SQL
+
+ |                                                          Challenge                                                       |                                                                                          Solution                                                                                         |
+|:--------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| [nth_highest_salary]( https://leetcode.com/problems/nth-highest-salary/)                                      | [solution.py](https://github.com/ranjanikrishnan/Coding-Challenges/blob/master/sql/nth_highest_salary/solution.sql)
