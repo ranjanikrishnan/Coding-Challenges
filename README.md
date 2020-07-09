@@ -12,6 +12,7 @@
 | [buy_and_sell_stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [solution.py](https://github.com/ranjanikrishnan/Coding-Challenges/blob/master/python/buy_and_sell_stock/solution.py)
 | [contains_duplicate](https://leetcode.com/problems/contains-duplicate/) | [solution.py](https://github.com/ranjanikrishnan/Coding-Challenges/blob/master/python/contains_duplicate/solution.py)
 | [product_of_array_except_self](https://leetcode.com/problems/product-of-array-except-self/) | [solution.py](https://github.com/ranjanikrishnan/Coding-Challenges/blob/master/python/product_of_array_except_self/solution.py)
+| [max_subarray](https://leetcode.com/problems/maximum-subarray/) | [solution.py](https://github.com/ranjanikrishnan/Coding-Challenges/blob/master/python/max_subarray/solution.py)
 
 
 
