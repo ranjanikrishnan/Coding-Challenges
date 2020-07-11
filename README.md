@@ -20,5 +20,6 @@
 
  |                                                          Challenge                                                       |                                                                                          Solution                                                                                         |
 |:--------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| [nth_highest_salary]( https://leetcode.com/problems/nth-highest-salary/)                                      | [solution.sql](https://github.com/ranjanikrishnan/Coding-Challenges/blob/master/sql/nth_highest_salary/solution.sql)
-| [rank_scores]( https://leetcode.com/problems/rank-scores/)                                      | [solution.sql](https://github.com/ranjanikrishnan/Coding-Challenges/blob/master/sql/rank_scores/solution.sql)
+| [nth_highest_salary](https://leetcode.com/problems/nth-highest-salary/)                                      | [solution.sql](https://github.com/ranjanikrishnan/Coding-Challenges/blob/master/sql/nth_highest_salary/solution.sql)
+| [rank_scores](https://leetcode.com/problems/rank-scores/)                                      | [solution.sql](https://github.com/ranjanikrishnan/Coding-Challenges/blob/master/sql/rank_scores/solution.sql)
+| [consecutive_nums](https://leetcode.com/problems/consecutive-numbers/)                                      | [solution.sql](https://github.com/ranjanikrishnan/Coding-Challenges/blob/master/sql/consecutive_nums/solution.sql)
