@@ -25,3 +25,4 @@
 | [rank_scores](https://leetcode.com/problems/rank-scores/)                                      | [solution.sql](https://github.com/ranjanikrishnan/Coding-Challenges/blob/master/sql/rank_scores/solution.sql)
 | [consecutive_nums](https://leetcode.com/problems/consecutive-numbers/)                                      | [solution.sql](https://github.com/ranjanikrishnan/Coding-Challenges/blob/master/sql/consecutive_nums/solution.sql)
 | [emp_earning_more_than_manager](https://leetcode.com/problems/employees-earning-more-than-their-managers/)                                      | [solution.sql](https://github.com/ranjanikrishnan/Coding-Challenges/blob/master/sql/emp_earning_more_than_manager/solution.sql)
+| [duplicate_emails](https://leetcode.com/problems/duplicate-emails/)                                      | [solution.sql](https://github.com/ranjanikrishnan/Coding-Challenges/blob/master/sql/duplicate_emails/solution.sql)
