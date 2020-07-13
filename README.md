@@ -14,6 +14,7 @@
 | [product_of_array_except_self](https://leetcode.com/problems/product-of-array-except-self/) | [solution.py](https://github.com/ranjanikrishnan/Coding-Challenges/blob/master/python/product_of_array_except_self/solution.py)
 | [max_subarray](https://leetcode.com/problems/maximum-subarray/) | [solution.py](https://github.com/ranjanikrishnan/Coding-Challenges/blob/master/python/max_subarray/solution.py)
 | [max_product_subarray](https://leetcode.com/problems/maximum-product-subarray/) | [solution.py](https://github.com/ranjanikrishnan/Coding-Challenges/blob/master/python/max_product_subarray/solution.py)
+| [min_in_rotated_sorted_array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [solution.py](https://github.com/ranjanikrishnan/Coding-Challenges/blob/master/python/min_in_rotated_sorted_array/solution.py)
 
 
 
@@ -26,3 +27,5 @@
 | [consecutive_nums](https://leetcode.com/problems/consecutive-numbers/)                                      | [solution.sql](https://github.com/ranjanikrishnan/Coding-Challenges/blob/master/sql/consecutive_nums/solution.sql)
 | [emp_earning_more_than_manager](https://leetcode.com/problems/employees-earning-more-than-their-managers/)                                      | [solution.sql](https://github.com/ranjanikrishnan/Coding-Challenges/blob/master/sql/emp_earning_more_than_manager/solution.sql)
 | [duplicate_emails](https://leetcode.com/problems/duplicate-emails/)                                      | [solution.sql](https://github.com/ranjanikrishnan/Coding-Challenges/blob/master/sql/duplicate_emails/solution.sql)
+| [customers_who_never_order](https://leetcode.com/problems/customers-who-never-order/)                                      | [solution.sql](https://github.com/ranjanikrishnan/Coding-Challenges/blob/master/sql/customers_who_never_order/solution.sql)
+| [dept_highest_salary](https://leetcode.com/problems/department-highest-salary)                                 | [solution.sql](https://github.com/ranjanikrishnan/Coding-Challenges/blob/master/sql/dept_highest_salary/solution.sql)
