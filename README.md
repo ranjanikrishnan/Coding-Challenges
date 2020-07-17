@@ -15,6 +15,7 @@
 | [max_subarray](https://leetcode.com/problems/maximum-subarray/) | [solution.py](https://github.com/ranjanikrishnan/Coding-Challenges/blob/master/python/max_subarray/solution.py)
 | [max_product_subarray](https://leetcode.com/problems/maximum-product-subarray/) | [solution.py](https://github.com/ranjanikrishnan/Coding-Challenges/blob/master/python/max_product_subarray/solution.py)
 | [min_in_rotated_sorted_array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [solution.py](https://github.com/ranjanikrishnan/Coding-Challenges/blob/master/python/min_in_rotated_sorted_array/solution.py)
+| [search_rotated_sorted_array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [solution.py](https://github.com/ranjanikrishnan/Coding-Challenges/blob/master/python/search_rotated_sorted_array/solution.py)
 
 
 
