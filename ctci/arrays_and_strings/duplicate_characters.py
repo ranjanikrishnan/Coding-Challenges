@@ -1,3 +1,5 @@
+# determine if a string has all unique characters
+
 def duplicate_characters(input_string):
     characters_of_input_string = {}
     for character in input_string:
