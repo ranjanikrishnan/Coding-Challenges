@@ -1,5 +1,5 @@
 import unittest
-from string_permutation import string_permutation_one, string_permutation_two
+from ctci.arrays_and_strings.string_permutation.string_permutation import string_permutation_one, string_permutation_two
 
 
 class TestDuplicateCharacters(unittest.TestCase):

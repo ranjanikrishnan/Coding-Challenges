@@ -1,5 +1,5 @@
 import unittest
-from duplicate_characters import duplicate_characters
+from ctci.arrays_and_strings.duplicate_characters.duplicate_characters import duplicate_characters
 
 
 class TestDuplicateCharacters(unittest.TestCase):
