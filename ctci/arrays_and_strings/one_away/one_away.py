@@ -10,7 +10,7 @@ def one_away(input_string_1: str, input_string_2: str) -> bool:
         if input_string_1[i] == input_string_2[j]:
             i = i + 1
             j = j + 1
-        elif not edited:
+        elif not edited:  # characters are different and we haven't made an edit yet
             edited = True
             if len_string_1 == len_string_2:  # assume a string replacement
                 i = i + 1
@@ -19,7 +19,7 @@ def one_away(input_string_1: str, input_string_2: str) -> bool:
                 j = j + 1
             elif len_string_1 > len_string_2:  # one extra character at i
                 i = i + 1
-        else:
+        else:  # characters are different and we have made an edit
             return False
     return True
 
